@@ -1,4 +1,5 @@
-import { ImageToText } from '../components/ImageToText';
+import React from 'react';
+import { ImageToText } from './components/ImageToText';
 
 function Model() {
   return (
